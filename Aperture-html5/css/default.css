@@ -1383,7 +1383,7 @@ footer .col3 {
 	list-style: none;
 	display: block;
 	width: 350px;
-	margin: 0;
+	margin: 0 0 10px 0;
     min-height: 150px;
 	padding: 0;
 }
